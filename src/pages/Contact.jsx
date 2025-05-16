@@ -193,7 +193,7 @@ const Contact = () => {
                   fontWeight: "40px",
                 }}
               >
-                Happy Parenting
+                Happy Parenting Day
               </p>
               <h5
                 className="text-start mt-0"
