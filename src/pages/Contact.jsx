@@ -9,11 +9,11 @@ import { FaFacebook } from "react-icons/fa";
 import { FaInstagramSquare } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { IoLogoYoutube } from "react-icons/io5";
-import logo from "../assets/logo.svg";
+import Logo from '../assets/Logo.svg';
 import ss from "../assets/ss.png";
 import { AiOutlineLaptop } from "react-icons/ai";
 
-const Contact = () => {
+const Contact = () => 
   return (
     <>
       <div
@@ -26,7 +26,7 @@ const Contact = () => {
             style={{ color: "rgba(0,0,0,1)" }}
           >
             <img
-              src={logo}
+              src={Logo}
               alt="logo"
               style={{ margin: "4px", width: "30px" }}
             />
