@@ -26,7 +26,7 @@ const Contact = () => {
             style={{ color: "rgba(0,0,0,1)" }}
           >
             <img
-              src={ogo}
+              src={Logo}
               alt="logo"
               style={{ margin: "4px", width: "30px" }}
             />
