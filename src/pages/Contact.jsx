@@ -13,7 +13,7 @@ import Logo from '../assets/Logo.svg';
 import ss from "../assets/ss.png";
 import { AiOutlineLaptop } from "react-icons/ai";
 
-const Contact = () => 
+const Contact = () => {
   return (
     <>
       <div
@@ -26,7 +26,7 @@ const Contact = () =>
             style={{ color: "rgba(0,0,0,1)" }}
           >
             <img
-              src={Logo}
+              src={ogo}
               alt="logo"
               style={{ margin: "4px", width: "30px" }}
             />
